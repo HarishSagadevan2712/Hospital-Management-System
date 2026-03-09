@@ -1,8 +1,8 @@
 # Hospital-Management-System
 
-# Reg No: 212224230050
-# Name: Darshan V
-# Date: 25/02/26
+# Reg No: 212224110022
+# Name: HARISH S
+
 
 
 # AIM:
